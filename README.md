@@ -32,7 +32,8 @@ This visualization demonstrates the relationship between different risk factors 
 - Full year policies show different risk patterns compared to partial year coverage
 
 ### Risk Heat Map Analysis
-![Risk Heat Map](risk_heatmap.png)
+![image](https://github.com/user-attachments/assets/074adc93-dbd3-477d-be35-d67b55b8f99d)
+
 
 The heat map reveals the interaction between driver age and vehicle age groups:
 - Highest risk concentration (red) appears in young drivers (18-25) with vehicles aged 6-10 years
@@ -41,7 +42,8 @@ The heat map reveals the interaction between driver age and vehicle age groups:
 - Vehicle age has a non-linear impact on risk across different driver age groups
 
 ### Population Density Risk Analysis
-![Risk Score Analysis](risk_analysis.png)
+![image](https://github.com/user-attachments/assets/c34e414b-7228-4600-a432-9cb20197f395)
+
 
 Analysis of risk patterns across population density groups shows:
 - Medium-High density areas have the highest risk score (2.45)
@@ -51,8 +53,8 @@ Analysis of risk patterns across population density groups shows:
 
 ## Results
 - 15% improvement in premium accuracy compared to baseline model
-- 20% increase in model predictive power through novel risk factors
-- 10% reduction in pricing bias across policyholder segments
+- Increase in model predictive power through novel risk factors
+
 
 ## Future Work
 - Implement Generalized Additive Models (GAMs) for non-linear relationships
